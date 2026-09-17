@@ -42,7 +42,7 @@ if answer.lower() == "random access memory":
 else:
     print("Incorrect!")
 
-# Aakhir mein score print karein
+# print Score 
 print("\n--- Game Over ---")
 print("You got " + str(score) + " questions correct!")
 print("You scored " + str((score / 4) * 100) + "%.")
